@@ -6,16 +6,7 @@ ABOUT THE PROJECT
 
 As an aspiring technologist passionate about leveraging cutting-edge tools for solving real-world challenges, I embarked on developing a resume screening application utilizing Python programming language and machine learning techniques. This project aimed to streamline the hiring process by automating the initial screening of job applications, saving valuable time and resources for recruiters.
 ----------------------------
-
-TECHNOLOGIES USED
-----------------------------
-
-- Python 
-- machine Learning
-- Natural Language Processing (NLP)
-- Streamlit
-
-  # IMAGES
+# IMAGES
 "
 <img width="1426" alt="1" src="https://github.com/sagarjha265/Resume--Screening--app/assets/67288575/fb5a766f-fe4e-45d5-9256-4b04edf9f58a">
 <img width="1427" alt="2" src="https://github.com/sagarjha265/Resume--Screening--app/assets/67288575/65caf84d-eaca-4ebb-9990-3103917775d6">
@@ -24,6 +15,14 @@ TECHNOLOGIES USED
 "
 
 
+
+TECHNOLOGIES USED
+----------------------------
+
+- Python 
+- machine Learning
+- Natural Language Processing (NLP)
+- Streamlit
 ----------------------------
 INSTRUCTIONS TO RUN THE PROJECT
 ----------------------------

@@ -4,20 +4,25 @@ Resume Screening App With Python and Machine Learning
 ABOUT THE PROJECT
 ----------------------------
 
-The project provides students online access to Health Centre and Medical Store.
-The students can get get information about the medicines available in the
-Medical Store  and online prescriptions from doctors, request ambulance in
-emergency situations.
-
+As an aspiring technologist passionate about leveraging cutting-edge tools for solving real-world challenges, I embarked on developing a resume screening application utilizing Python programming language and machine learning techniques. This project aimed to streamline the hiring process by automating the initial screening of job applications, saving valuable time and resources for recruiters.
 ----------------------------
 
 TECHNOLOGIES USED
 ----------------------------
 
 - Python 
-- Django 
-- SQLLite
-- Bootstrap ( HTML / CSS / Javascript )
+- machine Learning
+- Natural Language Processing (NLP)
+- Streamlit
+
+  # IMAGES
+"
+<img width="1426" alt="1" src="https://github.com/sagarjha265/Resume--Screening--app/assets/67288575/fb5a766f-fe4e-45d5-9256-4b04edf9f58a">
+<img width="1427" alt="2" src="https://github.com/sagarjha265/Resume--Screening--app/assets/67288575/65caf84d-eaca-4ebb-9990-3103917775d6">
+<img width="1421" alt="2" src="https://github.com/sagarjha265/Resume--Screening--app/assets/67288575/91c583f0-0eaf-4161-a91b-26f3cca3d805">
+<img width="1436" alt="4" src="https://github.com/sagarjha265/Resume--Screening--app/assets/67288575/f6b9227b-a381-4d90-bda0-b7ee727efdc5">
+"
+
 
 ----------------------------
 INSTRUCTIONS TO RUN THE PROJECT
@@ -25,30 +30,10 @@ INSTRUCTIONS TO RUN THE PROJECT
 
 Type the following commands in sequential order:
 
-    source env/bin/activate     
-    cd VITHealthCare
-    python3 manage.py runserver    
-    
-              
-Patients(Can be registered through):              
-            
-- email : nikhil@vit.ac.in     password : nikhil
-- email : pk@vit.ac.in         password : pankaj
-- email : rishu@vit.ac.in      password : rishu
-- email :  shreya@vit.ac.in    password : shreya
-
-
-Doctors(Can be registered only through superuser):
-
-- email : rpgoyal@vit.ac.in      password : rpgoyal@vit.ac.in
-- email : nksingh@vit.ac.in      password : nksingh@vit.ac.in
-- email : kumar@vit.ac.in        password : kumar.5@vit.ac.in
-- email : raghavan@vit.ac.in     password : sharma.1@vit.ac.in
-
+    After run the the app.py file
+    Type : streamlit run app.py
 ----------------------------
-# IMAGES
-"
-<img width="1426" alt="1" src="https://github.com/sagarjha265/Resume--Screening--app/assets/67288575/fb5a766f-fe4e-45d5-9256-4b04edf9f58a">
-<img width="1427" alt="n" src="https://github.com/sagarjha265/Resume--Screening--app/assets/67288575/65caf84d-eaca-4ebb-9990-3103917775d6">
-<img width="1421" alt="n1" src="https://github.com/sagarjha265/Resume--Screening--app/assets/67288575/91c583f0-0eaf-4161-a91b-26f3cca3d805">
-<img width="1436" alt="n2" src="  https://github.com/sagarjha265/Resume--Screening--app/assets/67288575/f6b9227b-a381-4d90-bda0-b7ee727efdc5">
+Outcome
+----------------------------
+The culmination of this endeavor yielded a sophisticated resume screening application poised to revolutionize the recruitment landscape, empowering organizations to streamline their hiring processes while maximizing the quality of candidate selection.
+
